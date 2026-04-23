@@ -46,6 +46,3 @@ This project demonstrates core JavaScript logic, DOM manipulation, and game deve
 
 
 
-⭐ If you like this project
-
-Give it a ⭐ on GitHub!
